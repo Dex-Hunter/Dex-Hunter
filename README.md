@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dex-Hunter</h1>
 <h3 align="center">A passionate Bug Bounty Hunter.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dex-hunter" alt="dex-hunter" /></a> </p>
-
 - 🔭 I’m currently working on **Bug Bounty Hunting**
 
 <h3 align="left">Connect with me:</h3>
